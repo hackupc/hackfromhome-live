@@ -2,8 +2,6 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/71c013e3-dd84-4bc9-b55e-548fd0b8666d/deploy-status)](https://app.netlify.com/sites/hackupc-live/deploys)
 
-![HackUPC live preview](src/images/ogimage.png)
-
 Hi! This is the code of the HackUPC live page.
 
 ## Setup

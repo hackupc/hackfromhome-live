@@ -25,10 +25,7 @@
 		'travel': 'travel',
 		'streaming': 'streaming',
 		'faq': 'faq',
-		'schedule': 'schedule',
-		'challenges': 'challenges',
-		'map': 'map',
-		'mentors': 'mentors'
+		'schedule': 'schedule'
 	}
 
 	let icons = {

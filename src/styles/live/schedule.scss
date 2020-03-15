@@ -10,15 +10,6 @@
 			margin-bottom: 50px;
 			box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 
-			h1 {
-				border-radius: $borderRadius $borderRadius 0 0;
-				text-align: center;
-				margin: 0;
-				padding: 10px;
-				background-color: #60733f;
-				color: #fff;
-				// border-bottom: 1px solid #fff3;
-			}
 			.table-scroll { overflow: auto; }
 			table {
 				width: 100%;
@@ -29,7 +20,7 @@
 
 				thead {
 					color: $contrastColor;
-					background-color: #60733f;
+					background-color: #303ab2;
 				}
 
 				td,th {
