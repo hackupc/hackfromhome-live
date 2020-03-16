@@ -1,8 +1,6 @@
-# HackUPC Live
+# Hack@Home Live
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/71c013e3-dd84-4bc9-b55e-548fd0b8666d/deploy-status)](https://app.netlify.com/sites/hackupc-live/deploys)
-
-Hi! This is the code of the HackUPC live page.
+Hi! This is the code of the Hack@Home live page.
 
 ## Setup
 
@@ -15,8 +13,7 @@ sudo n latest
 ```
 
 ```sh
-git clone git@github.com:hackupc/frontend.git
-cd frontend
+git clone https://github.com/hackupc/hackonline-live.git
 npm install
 ```
 
@@ -67,7 +64,7 @@ View the website at [https://localhost:8080](https://localhost:8080).
 
 ### Deploy to production
 
-**Push to master**. [Netlify](https://app.netlify.com/sites/hackupc-live) will build and deploy automatically.
+**Push to master**. [Netlify]() will build and deploy automatically.
 
 If you push something that doesn't build, don't worry, it won't be published.
 

@@ -22,7 +22,6 @@
 		'live': 'live',
 		'dayof': 'dayof',
 		'rules': 'rules',
-		'travel': 'travel',
 		'streaming': 'streaming',
 		'faq': 'faq',
 		'schedule': 'schedule'
