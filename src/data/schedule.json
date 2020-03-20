@@ -17,16 +17,16 @@
 				},
 				{
 					"id": "1",
-					"title": "Special launching...",
-					"startHour": "13:00",
-					"description": "Stay tuned... we are presenting something great!"
-				},
-				{
-					"id": "2",
 					"title": "Team Building",
 					"startHour": "12:15",
 					"endHour": "13:00",
 					"description": "Looking for a team or new teammates? Join us on the team building channels "
+				},
+				{
+					"id": "2",
+					"title": "Special launching...",
+					"startHour": "13:00",
+					"description": "Stay tuned... we are presenting something great!"
 				},
 				{
 					"id": "3",
