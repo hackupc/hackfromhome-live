@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e2d08ff4-85b0-4ae8-af38-39c4653d8aee/deploy-status)](https://app.netlify.com/sites/hackfromhome-live/deploys)
+
 # Hack@Home Live
 
 Hi! This is the code of the Hack@Home live page.
