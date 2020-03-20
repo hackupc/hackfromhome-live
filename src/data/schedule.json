@@ -1,7 +1,7 @@
 {
 	"version": 1,
 	"message": "",
-	"baseTimeOffset":"-120",
+	"baseTimeOffset":"-60",
 	"countdownStart":"21/03/2020 12:00",
 	"days":
 	[
@@ -11,123 +11,77 @@
 			[
 				{
 					"id": "0",
-					"title": "Registration",
-					"startHour": "16:00",
-					"endHour": "18:45",
-					"locationId": "checkin",
-					"locationName": "A5-A6 Underground corridor",
-					"description": "Register to the hackathon and get your swag! Make sure to have your ID ready"
+					"title": "Welcome!!",
+					"startHour": "12:00",
+					"description": "Welcome to HackFromHome!! We are glad to see you here!"
 				},
 				{
 					"id": "1",
-					"title": "Baggage check-in",
-					"startHour": "16:00",
-					"endHour": "18:45",
-					"locationId": "infodesk",
-					"locationName": "Info Desk",
-					"description": "Bring your baggage and we will store it for you"
+					"title": "Special launching...",
+					"startHour": "13:00",
+					"description": "Stay tuned... we are presenting something great!"
 				},
 				{
 					"id": "2",
-					"title": "Opening Ceremony",
-					"startHour": "19:00",
-					"endHour": "21:00",
-					"locationId": "vertex",
-					"locationName": "Vèrtex",
-					"description": "Introductory talk. Meet our sponsors and discover the prizes"
+					"title": "Team Building",
+					"startHour": "12:15",
+					"endHour": "13:00",
+					"description": "Looking for a team or new teammates? Join us on the team building channels "
 				},
 				{
 					"id": "3",
-					"title": "Hacking Starts",
-					"startHour": "21:00",
-					"locationId": "hacking",
-					"locationName": "Hacking rooms",
-					"description": "Ready. Set. GO!"
+					"emoji": "🔗",
+					"title": "Git",
+					"startHour": "13:00",
+					"endHour": "14:00",
+					"description": "Introduction to Git, one of the most popular version control systems. Learn to collaborate and share work with others without any headache!"
 				},
 				{
 					"id": "4",
-					"title": "Dinner",
-					"startHour": "21:00",
-					"endHour": "23:00",
-					"locationId": "meal",
-					"locationName": "Meal zone",
-					"description": "Enjoy our first meal"
+					"emoji": "🔗",
+					"title": "Implementing APIs with Flask + OpenAPI",
+					"startHour": "15:00",
+					"endHour": "16:00",
+					"description": "This talk has the goal of introducing the concept of how to build an API using Flask and OpenAPI. Using Python, we are gonna learn how to interact with a PostgreSQL database using SQLAlchemy, building the project using Connexion and learning what ReDoc is."
 				},
 				{
 					"id": "5",
-					"title": "Team Building",
-					"startHour": "22:30",
-					"endHour": "23:30",
-					"locationId": "A4002",
-					"locationName": "A4002",
-					"description": "Looking for a team or new teammates?"
+					"emoji": "🔗",
+					"title": "Intro to React with TypeScript",
+					"startHour": "16:30",
+					"endHour": "17:30",
+					"description": "The goal of this talk is to learn how to create a web application using React with Typescript. In addition, you will learn some useful libraries that could help you when you are developing a web application with React."
 				},
 				{
 					"id": "6",
-					"title": "Git & GitHub",
-					"talk": true,
-					"author": "GitHub",
-					"startHour": "22:30",
-					"endHour": "23:00",
-					"locationId": "A5001",
-					"locationName": "A5001",
-					"description": "Introduction to git and GitHub, learn the most basic commands for git and collaborate with GitHub"
+					"emoji": "🔗",
+					"title": "Setting up Docker-Compose w/ nginx + ReactJS + uWSGI + PostgreSQL",
+					"startHour": "18:00",
+					"endHour": "19:00",
+					"description": "In this workshop you'll learn how to set up a production-ready environment that spins up the API server developed by Albert Suarez (accessed through uWSGI), the PostgreSQL database that the API queries to, the web client developed by David Aleu (ReactJS) and a reverse proxy (nginx) that will serve as an entrypoint to the project."
+				},
+				{
+					"id": "6",
+					"emoji": "🔗",
+					"title": "Career paths for CS students: What to expect after university",
+					"startHour": "18:00",
+					"endHour": "19:00",
+					"description": "Finishing university is an important step for many students but it does not mean the end of learning as a software developer. In this talk we will show the different paths that are open after getting you degree with some advices based on real stories. After the talk there will be a Q&A part where we will try to resolves all your doubts."
 				},
 				{
 					"id": "7",
-					"title": "Initial Brainstorming",
-					"talk": true,
-					"author": "Opentrends",
-					"startHour": "22:30",
-					"endHour": "23:00",
-					"locationId": "A5002",
-					"locationName": "A5002",
-					"description": "Opentrends is helping you choose the right project. In our workshop we're going to implement design thinking methodologies to find your most appropiate challenge. Don't miss out!"
+					"title": "Demos",
+					"startHour": "22:00",
+					"endHour": "24:00",
+					"description": "Submit your project on devpost and present to the community in the Demo channel that we will open at the demos time"
 				},
 				{
 					"id": "8",
-					"title": "Data for good cities",
-					"talk": true,
-					"author": "Everis",
-					"startHour": "23:00",
-					"endHour": "23:30",
-					"locationId": "A5001",
-					"locationName": "A5001",
-					"description": "More and more companies are attempting to become data-driven. Turning data into knowledge and knowledge into intelligent actions is crucial for digital transformation. Let's see some interesting examples of how to do it for a good purpose."
-				},
-				{
-					"id": "9",
-					"title": "Crush your coding interview workshop",
-					"talk": true,
-					"author": "Facebook",
-					"startHour": "23:00",
-					"endHour": "23:30",
-					"locationId": "A5002",
-					"locationName": "A5002",
-					"description": "Never experienced a technical interview before? Want to extra-prepare for your next one? Technical interviews are one of the major hurdles of landing an awesome internship or full time career. Open for currently enrolled University students, come learn about the common pitfalls and tips to help you crush your next coding interview! Learn how to put your best foot forward at this Crush Your Coding Interview Workshop."
-				},
-				{
-					"id": "10",
-					"title": "The future of 3D Printing",
-					"talk": true,
-					"author": "HP",
-					"startHour": "23:30",
-					"endHour": "23:59",
-					"locationId": "A5001",
-					"locationName": "A5001",
-					"description": "Discover one of the most trend manufacturing technology with HP."
-				},
-				{
-					"id": "11",
-					"title": "Are you Redis?",
-					"talk": true,
-					"author": "Vueling",
-					"startHour": "23:30",
-					"endHour": "23:59",
-					"locationId": "A5002",
-					"locationName": "A5002",
-					"description": "You want to know how to improve your applications? Then cache could be a valid approach, learn how Redis is used in a big company like Vueling."
+					"title": "End",
+					"startHour": "24:00",
+					"description": "It was a pleasure! We hope you have had a good time with us and hope to see you in more events."
 				}
+				
 			]
 		}
 	]
