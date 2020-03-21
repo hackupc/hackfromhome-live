@@ -54,6 +54,13 @@
 				},
 				{
 					"id": "6",
+					"title": "Skribbl.io game",
+					"startHour": "16:00",
+					"endHour": "16:30",
+					"description": "Let's play all together"
+				},
+				{
+					"id": "7",
 					"emoji": "🔗",
 					"title": "Intro to React with TypeScript",
 					"startHour": "16:30",
@@ -61,7 +68,7 @@
 					"description": "The goal of this talk is to learn how to create a web application using React with Typescript. In addition, you will learn some useful libraries that could help you when you are developing a web application with React."
 				},
 				{
-					"id": "7",
+					"id": "8",
 					"emoji": "🔗",
 					"title": "Setting up Docker-Compose w/ nginx + ReactJS + uWSGI + PostgreSQL",
 					"startHour": "18:00",
@@ -69,7 +76,7 @@
 					"description": "In this workshop you'll learn how to set up a production-ready environment that spins up the API server developed by Albert Suarez (accessed through uWSGI), the PostgreSQL database that the API queries to, the web client developed by David Aleu (ReactJS) and a reverse proxy (nginx) that will serve as an entrypoint to the project."
 				},
 				{
-					"id": "8",
+					"id": "9",
 					"emoji": "🔗",
 					"title": "Career paths for CS students: What to expect after university",
 					"startHour": "20:00",
@@ -77,14 +84,14 @@
 					"description": "Finishing university is an important step for many students but it does not mean the end of learning as a software developer. In this talk we will show the different paths that are open after getting you degree with some advices based on real stories. After the talk there will be a Q&A part where we will try to resolves all your doubts."
 				},
 				{
-					"id": "9",
+					"id": "10",
 					"title": "Demos",
 					"startHour": "22:00",
 					"endHour": "24:00",
 					"description": "Submit your project on devpost and present to the community in the Demo channel that we will open at the demos time"
 				},
 				{
-					"id": "10",
+					"id": "11",
 					"title": "End",
 					"startHour": "24:00",
 					"description": "It was a pleasure! We hope you have had a good time with us and hope to see you in more events."
