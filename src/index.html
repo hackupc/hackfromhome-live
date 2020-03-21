@@ -37,18 +37,9 @@
 	<meta property="og:url"         content="https://https://hackfromhome-live.netlify.com/">
 
 	<!-- Favicon -->
-	<!-- Generated with: https://realfavicongenerator.net/ -->
-	<link rel="apple-touch-icon" sizes="180x180" href="/assets/img/favicon/apple-touch-icon.png?v=00zyG6kr2M">
-	<link rel="icon" type="image/png" sizes="32x32" href="/assets/img/favicon/favicon-32x32.png?v=00zyG6kr2M">
-	<link rel="icon" type="image/png" sizes="16x16" href="/assets/img/favicon/favicon-16x16.png?v=00zyG6kr2M">
-	<link rel="manifest" href="/assets/img/favicon/site.webmanifest?v=00zyG6kr2M">
-	<link rel="mask-icon" href="/assets/img/favicon/safari-pinned-tab.svg?v=00zyG6kr2M" color="#5f723f">
-	<link rel="shortcut icon" href="/assets/img/favicon/favicon.ico?v=00zyG6kr2M">
-	<meta name="apple-mobile-web-app-title" content="My HackUPC">
-	<meta name="application-name" content="My HackUPC">
-	<meta name="msapplication-TileColor" content="#5f723f">
-	<meta name="msapplication-config" content="/assets/img/favicon/browserconfig.xml?v=00zyG6kr2M">
-	<meta name="theme-color" content="#5f723f">
+	<link rel="shortcut icon" type="image/png" href="/assets/img/favicon.ico"/>
+    <link rel="shortcut icon" href="assets/img/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="assets/img/favicon.ico" type="image/x-icon">
 
 	<link rel="stylesheet" type="text/css" href="/assets/css/live.min.css" data-finger-print>
 
@@ -128,10 +119,6 @@
 			</div>
 		</div>
 	</template>
-	<!--Hardware Lab Element description-->
-	<template id="hardwareElem">
-		<li><b>{item_name}</b> ({available} / {quantity})</li>
-	</template>
 </head>
 <body>
 	<!--header for <720px-->
@@ -162,7 +149,7 @@
 					<a href="#/schedule">Schedule</a>
 				</li>
 				<li data-bind-view="streaming">
-					<a href="#/streaming">Streaming</a>
+					<a href="#/streaming">Activities Information</a>
 				</li>
 				<li data-bind-view="rules">
 					<a href="#/rules">Rules</a>
@@ -197,7 +184,7 @@
 					</div>
 				</li>
 				<li data-bind-view="streaming">
-					<a href="#/streaming">Streaming</a>
+					<a href="#/streaming">Activities Information</a>
 				</li>
 				<li data-bind-view="rules">
 					<a href="#/rules">Rules</a>
@@ -216,7 +203,7 @@
 						<span class="hours">12</span>:<span class="minutes">00</span><span class="seconds">00</span>
 					</div>
 					<div class="countdown-bg">
-						<img src="/assets/img/live/hfh-logo.svg" alt="HackUPC logo">
+						<!-- <img src="/assets/img/live/hfh-logo.svg" alt="HackUPC logo"> -->
 					</div>
 				</div>
 				<div class="events-fancy">
@@ -240,20 +227,26 @@
 				<div class="panel">
 					<h1>Important Info</h1>
 					<div>
+						<p style="text-align: center; margin-bottom: 15px;">Remember that all the hours are in Barcelona time (GMT +1)</p>
 						<h3 class="text-centered margin-bottom">Links</h3>
+						<!-- <div class="buttons margin-bottom">
+							<a target="_blank" href="https://discord.gg/AVQHN9p">Discord server</a>
+						</div> -->
 						<div class="buttons margin-bottom">
-							<a target="_blank" href="https://www.twitch.tv/hackersupc">Talks a Twitch</a>
+							<a target="_blank" href="https://www.twitch.tv/hackersupc">Twitch Talks</a>
 						</div>
-						<div class="buttons margin-bottom">
+						<div class="buttons" >
+							<a target="_blank" href="https://hackfromhome.hackersatupc.org/">Web Page</a>
+						</div>
+						<!-- <div class="buttons margin-bottom">
 							<a target="_blank" href="https://hackupc2019.devpost.com">Devpost</a>
-						</div>
+						</div> -->
 					</div>
 				</div>
 				<div class="panel" style="align-self: flex-start;">
 					<h1>Contact</h1>
 					<div class="text-centered">
-						<p class="icon"><i class="fa fa-slack" aria-hidden="true"></i></p>
-						<span><a  target="_blank" href="http://slack.hackersatupc.org/">slack.hackersatupc.org</a></span>
+						<span><a  target="_blank" href="https://discord.gg/AVQHN9p">Discord server</a></span>
 					</div>
 					<div class="text-centered">
 						<p class="icon"><i class="fa fa-envelope" aria-hidden="true"></i></p>
@@ -268,6 +261,17 @@
 							<a class="yt" target="_blank" href="https://www.youtube.com/channel/UCiiRorGg59Xd5Sjj9bjIt-g"><i class="fa fa-youtube" aria-hidden="true"></i></a>
 							<a class="gt" target="_blank" href="https://github.com/hackupc"><i class="fa fa-github" aria-hidden="true"></i></a>
 							<a class="me" target="_blank" href="https://medium.com/@hackupc"><i class="fa fa-medium" aria-hidden="true"></i></a>
+						</div>
+						
+					</div>
+				</div>
+				<div class="panel large">
+					<div style="text-align: center;">
+						<p style="text-align: center; margin-bottom: 15px;">The great minds that create TheGame of HackUPC 2019 had created a daily hacking challenge to everyone who wants to try something different and fresh. <br/> Will you be able to solve everything? <br /> Welcome to... </p>
+						<img src="/assets/img/live/advent-logotype.svg" class="image" style="width: 50%; margin-bottom: 15px;"/>
+						<div class="buttons margin-bottom">
+							<a target="_blank" href="#">Comming soon...</a>
+							<!-- <a target="_blank" href="http://adventofcorona.hackersatupc.org/">Start Hacking</a> -->
 						</div>
 					</div>
 				</div>
@@ -384,38 +388,55 @@
 		</article>
 		<article id="streaming" class="under-header padding-bottom">
 			<div class="container">
-				<!-- <div class="panel large">
-					<h1>Streaming</h1>
-					<div>
-						<h2 style="text-align: center;">Live streaming will be available on Friday</h2>
-						<p style="text-align: center;">We thank you for your patience!</p>
-					</div>
-				</div> -->
-				<!-- <div class="panel large no-margin">
-					<h1>Streaming</h1>
-					<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
-					<div class="embed-container">
-						<iframe src="https://www.youtube.com/embed//qTijleLsync" frameborder="0" allowfullscreen></iframe>
-					</div>
-				</div> -->
 
 				<div class="panel large">
-					<h1>API's talk</h1>
+					<h1>TEAM BUILDING</h1>
 					<div>
-						<h2 style="text-align: center;">Live streaming will be available on Friday</h2>
-						<p style="text-align: center; margin-bottom: 15px;">Description of the video! Sobre de que serà i tal i qual</p>
-						<div class="buttons margin-bottom">
-							<a target="_blank" href="https://hackupc2019.devpost.com">Go to the video</a>
-						</div>
+						<h2 class="margin-bottom" style="text-align: center;">Join us on Discord to participate</h2>
+						<p class="margin-bottom">If you are looking a team or additional members for your team, we have an scheduled activity for you! <br /> It will start at 12:15 and it will work the following way: </p>
+						<ul>
+							<li>Join our discord server and go to the text channel #teambuilding.</li>
+							<li>If you are part of a team, react to the message we will post. We want you to react only one person per team.</li>
+							<li>We will join all to the voice channel and we will unmute the ones who reacted to the message (of the previous step), so they can explain their idea or what kind of profile their looking for.</li>
+							<li>After every idea, we will ask that the ones who are looking for a team and are interested in joining the team who have just explained to react to an specific message, written by us in text channel.</li>
+							<li>Depending in the amount of people interested, maybe we will suggest you to join an specific voice channel, so you can talk all together and form a team or keep looking for.</li>
+							<li>If you have been in a specific channel, but after all you are still looking for some people/team, come back to the teambuilding channel!</li>
+						</ul>
 					</div>
 				</div>
 				<div class="panel large">
-					<h1>Docker talk</h1>
+					<h1>INTRODUCTION TO GIT</h1>
 					<div>
-						<p>Description of the video! Sobre de que serà i tal i qual</p>
-						<div class="buttons margin-bottom">
-							<a target="_blank" href="https://hackupc2019.devpost.com">Go to the video</a>
-						</div>
+						<h3><b>Speaker</b>: Martin Cristóbal</h3>
+						<p>Introduction to Git, one of the most popular version control systems. Learn to collaborate and share work with others without any headache!</p>
+					</div>
+				</div>
+				<div class="panel large">
+					<h1 style="text-transform: uppercase;">Implementing APIs with Flask + OpenAPI</h1>
+					<div>
+						<h3><b>Speaker</b>: Albert Suarez</h3>
+						<p>Introduction to Git, one of the most popular version control systems. Learn to collaborate and share work with others without any headache!</p>
+					</div>
+				</div>
+				<div class="panel large">
+					<h1>Intro to React with TypeScript</h1>
+					<div>
+						<h3><b>Speaker</b>: David Aleu</h3>
+						<p>The goal of this talk is to learn how to create a web application using React with Typescript. In addition, you will learn some useful libraries that could help you when you are developing a web application with React.</p>
+					</div>
+				</div>
+				<div class="panel large">
+					<h1>Setting up Docker-Compose w/ nginx + ReactJS + uWSGI + PostgreSQL</h1>
+					<div>
+						<h3><b>Speaker</b>: Alaa Moucharrafie</h3>
+						<p>In this workshop you'll learn how to set up a production-ready environment that spins up the API server developed by Albert Suarez (accessed through uWSGI), the PostgreSQL database that the API queries to, the web client developed by David Aleu (ReactJS) and a reverse proxy (nginx) that will serve as an entrypoint to the project.</p>
+					</div>
+				</div>
+				<div class="panel large">
+					<h1>Career paths for CS students: What to expect after university</h1>
+					<div>
+						<h3><b>Speaker</b>: Jordi Montes </h3>
+						<p>	Finishing university is an important step for many students but it does not mean the end of learning as a software developer. In this talk we will show the different paths that are open after getting you degree with some advices based on real stories. After the talk there will be a Q&A part where we will try to resolves all your doubts.</p>
 					</div>
 				</div>
 			</div>

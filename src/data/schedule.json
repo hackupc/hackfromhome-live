@@ -31,7 +31,7 @@
 				{
 					"id": "3",
 					"emoji": "🔗",
-					"title": "Git",
+					"title": "Introduction to Git",
 					"startHour": "13:00",
 					"endHour": "14:00",
 					"description": "Introduction to Git, one of the most popular version control systems. Learn to collaborate and share work with others without any headache!"
