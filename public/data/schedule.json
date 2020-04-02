@@ -1,0 +1,93 @@
+{
+	"version": 2,
+	"message": "",
+	"baseTimeOffset":"-120",
+	"countdownStart":"04/04/2020 12:00",
+	"days":
+	[
+		{
+			"date":"04/04/2020",
+			"events":
+			[
+				{
+					"id": "0",
+					"title": "Welcome!!",
+					"startHour": "12:00",
+					"description": "Welcome to HackFromHome!! We are glad to see you here!"
+				},
+				{
+					"id": "1",
+					"title": "Team Building",
+					"startHour": "12:15",
+					"endHour": "13:00",
+					"description": "Looking for a team or new teammates? Join us on the team building channels "
+				},
+				{
+					"id": "2",
+					"emoji": "🔗",
+					"title": "VIM: from zero to hero",
+					"startHour": "13:15",
+					"endHour": "13:45",
+					"description": "Aprender a utilizar VIM, uno de los editores texto por consola más populares. Empezando por saber cómo editar, guardar y salir; hasta... bueno, VIM no tiene límites! Este editor se puede encontrar en cualquier Linux y nunca está de más saber manejarse en él."
+				},
+				{
+					"id": "3",
+					"emoji": "🔗",
+					"title": "Implement a chatbot with Dialogflow",
+					"startHour": "15:00",
+					"endHour": "16:00",
+					"description": "Brew introduction to chatbots. Learn how to implement a chatbot with Dialogflow and how integrate it."
+				},
+				{
+					"id": "4",
+					"title": "Let's play Pinturillo",
+					"startHour": "16:15",
+					"endHour": "16:45",
+					"description": ""
+				},
+				{
+					"id": "5",
+					"emoji": "🔗",
+					"title": "Cómo crear y entrenar una red neuronal con sólo 10 líneas de Python",
+					"startHour": "17:00",
+					"endHour": "18:00",
+					"description": "Esta  presentación inicia a los hackers en los conceptos básicos de redes neuronales mediante un caso práctico que con sólo 10 líneas de código Python se crea y entrena una red neuronal que reconoce dígitos escritos a mano. Para ello usaremos la API Keras de TensorFlow, la librería más popular en estos momentos en la comunidad Deep Learning."
+				},
+				{
+					"id": "6",
+					"title": "Zumba masterclass",
+					"startHour": "18:15",
+					"endHour": "18:45",
+					"description": ""
+				},
+				{
+					"id": "7",
+					"emoji": "🔗",
+					"title": "Hacking with Go",
+					"startHour": "19:00",
+					"endHour": "20:00",
+					"description": "I like Go. Let's see if I can make you like it too!"
+				},
+				{
+					"id": "8",
+					"title": "Let's play STOP!",
+					"startHour": "22:00",
+					"endHour": "22:30",
+					"description": ""
+				},
+				{
+					"id": "9",
+					"title": "Demos",
+					"startHour": "23:00",
+					"description": "Submit your project on devpost and present to the community in the Demo channel that we will open at the demos time"
+				},
+				{
+					"id": "10",
+					"title": "End",
+					"startHour": "24:00",
+					"description": "It was a pleasure! We hope you have had a good time with us and hope to see you in more events."
+				}
+			]
+		}
+	]
+}
