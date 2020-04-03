@@ -1,10 +1,11 @@
-# HackUPC Live
+# HackFromHome Live
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/71c013e3-dd84-4bc9-b55e-548fd0b8666d/deploy-status)](https://app.netlify.com/sites/hackupc-live/deploys) [![Build Status](https://travis-ci.com/hackupc/hackupc-live.svg?branch=master)](https://travis-ci.com/hackupc/hackupc-live)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e2d08ff4-85b0-4ae8-af38-39c4653d8aee/deploy-status)](https://app.netlify.com/sites/hackfromhome-live/deploys)
+[![Build Status](https://travis-ci.com/hackupc/hackfromhome-live.svg?branch=master)](https://travis-ci.com/hackupc/hackfromhome-live)
 
 ![HackUPC live preview](public/assets/img/ogimage.png)
 
-Hi! This is the code of the HackUPC live page.
+Hi! This is the code of the HackFromHome live page, it was changed for all the rounds!
 
 ## Setup
 
@@ -69,7 +70,7 @@ View the website at [https://localhost:5000](https://localhost:5000).
 
 ### Deploy to production
 
-**Push to master**. [Netlify](https://app.netlify.com/sites/hackupc-live) will build and deploy automatically.
+**Push to master**. [Netlify](https://app.netlify.com/sites/hackfromhome-live) will build and deploy automatically.
 
 If you push something that doesn't build, don't worry, it won't be published.
 
@@ -115,7 +116,11 @@ Useful to specify events that don't have concept of length or that span through 
 
 ## Support
 
-If you need help understanding something of this repo you can ask the previous developers. The ones that made the 2019 edition are:
+If you need help understanding something of this repo you can ask the previous developer. The ones that made this version of live is:
+
+- Carlota Catot Bragós: Slack `@Carlota` [carlotacb.dev](https://www.carlotacb.dev/)
+
+This side is a fork from 2019 HackUPC live that was developed by:
 
 - Maurici Abad Gutierrez: Slack `@mauriciabad` [mauriciabad.com](https://mauriciabad.com/)
 - Bernat Torres: Slack `@bernatixer` [bernattorres.com](https://bernattorres.com/)
