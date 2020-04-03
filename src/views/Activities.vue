@@ -105,7 +105,7 @@
             <p class="icon"><i class="fa fa-slack" aria-hidden="true"></i></p>
             <span>activities</span>
           </div>
-          <p class="margin-bottom" style="text-align: justify;"> Algo per explicar l'activitat </p>
+          <p class="margin-bottom" style="text-align: justify;">Challenge your vocabulary playing STOP! Discover how many countries that start with the letter A are you able to think in a time record. Or how many fruits that start with the letter K can you list? Show it by winning all your opponents in this fun game!</p>
           <div style="text-align: center;">
             <img src="/assets/img/live/stop.jpg" class="image" style="width: 80%; margin-top: 1.3em"/>
           </div>
