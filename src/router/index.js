@@ -22,7 +22,7 @@ const routes = [
     component: FAQ,
   },
   {
-    path: '/pastEdition',
+    path: '/past-talks',
     name: 'PastEdition',
     component: PastEdition,
   },

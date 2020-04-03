@@ -31,8 +31,8 @@
           <li :class="isActive('/activities')">
             <router-link to="/activities">Activities Information</router-link>
           </li>
-          <li :class="isActive('/pastEdition')">
-            <router-link to="/pastEdition">Past Edition Talks</router-link>
+          <li :class="isActive('/past-talks')">
+            <router-link to="/past-talks">Past Edition Talks</router-link>
           </li>
           <li :class="isActive('/faq')">
             <router-link to="/faq">FAQ</router-link>
@@ -59,8 +59,8 @@
           <li :class="isActive('/activities')">
             <router-link to="/activities">Activities Information</router-link>
           </li>
-          <li :class="isActive('/pastEdition')">
-            <router-link to="/pastEdition">Past Edition Talks</router-link>
+          <li :class="isActive('/past-talks')">
+            <router-link to="/past-talks">Past Round Talks</router-link>
           </li>
           <li :class="isActive('/faq')">
             <router-link to="/faq">FAQ</router-link>
