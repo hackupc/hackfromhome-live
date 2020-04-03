@@ -48,10 +48,22 @@
         </div>
       </div>
       <div class="panel">
+        <h1>What are the maximum size of the teams?</h1>
+        <div>
+          <p>There is no maximum size for a team but our recomendation is to be 4 to 6 maximum in a team so you have less dependencies and you can work better. Also we recomend you to be a multidisciplinary team or experience with new technologies</p>
+        </div>
+      </div>
+      <div class="panel">
+        <h1>The project has to be fully developed during the project?</h1>
+        <div>
+          <p>No! You can continue a project you start in an other ocasion! The most important think in this hackathon is learn and have a good time with us!</p>
+        </div>
+      </div>
+      <div class="panel">
         <h1>Which will be the language of the Hackathon?</h1>
         <div>
           <p>
-            English, we are having participants from all over the world so we will be doing all the activities in English.
+            English and Spanish, we are having participants from all over the world so we will be doing the activities in English or Spanish depending on the participants. Three of the four main talks in this round will be presented in Spanish.
           </p>
         </div>
       </div>
