@@ -2,7 +2,7 @@
   <div id="activities" class="under-header padding-bottom">
     <div class="container">
       <div class="panel large">
-        <h1 style="text-transform: uppercase;">TALKS</h1>
+        <h1 class="activity-title">TALKS</h1>
       </div>
       <div class="panel">
         <h1 style="text-transform: uppercase;">VIM: from zero to hero</h1>
@@ -49,7 +49,7 @@
         </div>
       </div>
       <div class="panel large">
-        <h1 style="text-transform: uppercase;">ACTIVITIES</h1>
+        <h1 class="activity-title">ACTIVITIES</h1>
       </div>
       <div class="panel">
         <h1>TEAM BUILDING</h1>

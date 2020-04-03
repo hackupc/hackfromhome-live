@@ -3,9 +3,7 @@
     <div class="countdown-time">
       <span class="hours">{{hours}}</span>:<span class="minutes">{{minutes}}</span><span class="seconds">{{seconds}}</span>
     </div>
-    <div class="countdown-bg">
-      <img src="/assets/img/live/hackupc-logo.svg" alt="HackUPC logo">
-    </div>
+    <div class="countdown-bg"></div>
   </div>
 </template>
 
