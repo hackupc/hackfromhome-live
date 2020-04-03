@@ -40,7 +40,7 @@
       <div class="panel">
         <h1 style="text-transform: uppercase;">Hacking with Go</h1>
         <div>
-          <h3>Speaker: Taras Yarema [English]</h3>
+          <h3>Speaker: Taras Yarema</h3>
           <h5>Language: English</h5>
           <p style="text-align: justify;">I like Go. Let's see if I can make you like it too!</p>
           <div style="text-align: center;">
