@@ -22,7 +22,7 @@
       <div class="panel" style="align-self: flex-start;">
           <h1>Contact</h1>
           <div class="text-centered">
-            <span><a  target="_blank" href="https://discord.gg/AVQHN9p">Discord server</a></span>
+            <span><a  target="_blank" href=" https://discordapp.com/invite/z5eqTGD">Discord server</a></span>
           </div>
           <div class="text-centered">
             <p class="icon"><i class="fa fa-envelope" aria-hidden="true"></i></p>
