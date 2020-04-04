@@ -26,7 +26,7 @@
           </div>
           <div class="text-centered">
             <p class="icon"><i class="fa fa-envelope" aria-hidden="true"></i></p>
-            <span><a href="mailto:contact@hackersatupc.org" target="_blank">contact@hackersatupc.org</a></span>
+            <span><a href="mailto:support@hackersatupc.org" target="_blank">support@hackersatupc.org</a></span>
           </div>
           <div>
             <h3 class="text-centered margin-bottom">Social media</h3>

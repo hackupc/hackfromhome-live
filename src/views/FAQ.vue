@@ -27,7 +27,7 @@
         <h1>I'm not in Discord, how do I get in?</h1>
         <div>
           <p>
-            Mail us to <a href="mailto:contact@hackersatupc.org" target="_blank">contact@hackersatupc.org</a> or join the discord server following <a href="https://discord.gg/AVQHN9p" target="_blank">this link</a>!
+            Mail us to <a href="mailto:support@hackersatupc.org" target="_blank">support@hackersatupc.org</a> or join the discord server following <a href="https://discord.gg/AVQHN9p" target="_blank">this link</a>!
           </p>
         </div>
       </div>
