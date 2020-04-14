@@ -26,13 +26,13 @@
             <router-link to="/live">Live</router-link>
           </li>
           <li :class="isActive('/schedule')">
-            <router-link to="/schedule">Schedule</router-link>
+            <router-link to="/schedule">Horario</router-link>
           </li>
           <li :class="isActive('/activities')">
-            <router-link to="/activities">Activities Information</router-link>
+            <router-link to="/activities">Información de las actividades</router-link>
           </li>
           <li :class="isActive('/past-talks')">
-            <router-link to="/past-talks">Past Edition Talks</router-link>
+            <router-link to="/past-talks">Talks rondas anteriores</router-link>
           </li>
           <li :class="isActive('/faq')">
             <router-link to="/faq">FAQ</router-link>
@@ -51,16 +51,16 @@
             <router-link to="/live">Live</router-link>
           </li>
           <li :class="isActive('/schedule')">
-            <router-link to="/schedule">Schedule</router-link>
+            <router-link to="/schedule">Horario</router-link>
           </li>
           <li @click="toggleFullscreen" id="countdown-li">
             <Countdown/>
           </li>
           <li :class="isActive('/activities')">
-            <router-link to="/activities">Activities Information</router-link>
+            <router-link to="/activities">Información de las actividades</router-link>
           </li>
           <li :class="isActive('/past-talks')">
-            <router-link to="/past-talks">Past Round Talks</router-link>
+            <router-link to="/past-talks">Talks rondas anteriores</router-link>
           </li>
           <li :class="isActive('/faq')">
             <router-link to="/faq">FAQ</router-link>
