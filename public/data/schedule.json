@@ -6,7 +6,7 @@
 	"days":
 	[
 		{
-			"date":"04/04/2020",
+			"date":"18/04/2020",
 			"events":
 			[
 				{
@@ -33,10 +33,10 @@
 				{
 					"id": "3",
 					"emoji": "🔗",
-					"title": "Talk 1",
+					"title": "Generative Adversarial Neural Networks",
 					"startHour": "15:00",
 					"endHour": "16:00",
-					"description": "Algo descriptiu jeje"
+					"description": "En esta charla se hablará acerca de las redes generativas adversarias con las que, entre otros, se pueden generar caras realistas de personas y objetos. Discutiremos cómo funcionan, sus usos y los principales retos que presentan y acabaremos programando una en directo usando Tensorflow 2.0."
 				},
 				{
 					"id": "4",
@@ -48,13 +48,14 @@
 				{
 					"id": "5",
 					"emoji": "🔗",
-					"title": "Talk 2",
+					"title": "Grandes cosas con poco dinero en el cloud",
 					"startHour": "17:00",
 					"endHour": "18:00",
-					"description": "Algo descriptiu jeje"
+					"description": "Primero te explicamos qué es el cloud (de verdad) y luego vemos cómo usarlo para solucionar problemas reales sin tener que ser millonario: mantener tu blog por medio euro al mes, correr tu experimiento sobre 160 procesadores y medio terabyte de ram por 25 euros o escribir medio millón de registros en una base de datos en un minuto a cambio de cacahuetes. Y con demos ¡que está todo pagado!"
 				},
 				{
 					"id": "6",
+					"emoji": "🔗",
 					"title": "Zumba masterclass",
 					"startHour": "18:15",
 					"endHour": "18:45",

@@ -5,33 +5,37 @@
         <h1 class="activity-title">TALKS</h1>
       </div>
       <div class="panel">
-        <h1 style="text-transform: uppercase;">Workshop </h1>
+        <h1 style="text-transform: uppercase;">Grandes cosas con poco dinero en el cloud</h1>
         <div>
-          <h3>Speaker: </h3>
-          <p style="text-align: justify;">Description</p>
+          <h3>Ponente: Javi Moreno</h3>
+          <p style="text-align: justify;">
+            Primero te explicamos qué es el cloud (de verdad) y luego vemos cómo usarlo para solucionar problemas reales sin tener que ser millonario: mantener tu blog por medio euro al mes, correr tu experimiento sobre 160 procesadores y medio terabyte de ram por 25 euros o escribir medio millón de registros en una base de datos en un minuto a cambio de cacahuetes. Y con demos ¡que está todo pagado!
+          </p>
           <div style="text-align: center;">
-            <!-- <img src="/assets/img/live/code.png" class="image" style="width: 30%; margin-top: 2em"/> -->
+            <img src="/assets/img/live/cloud.png" class="image" style="width: 30%; margin-top: 1em" />
           </div>
         </div>
       </div>
       <div class="panel">
-        <h1 style="text-transform: uppercase;">Talk 1</h1>
+        <h1 style="text-transform: uppercase;">Generative Adversarial Neural Networks</h1>
         <div>
-          <h3>Speaker: </h3>
-          <p style="text-align: justify;">Description</p>
+          <h3>Speaker: Adrià Cabeza</h3>
+          <p style="text-align: justify;">
+            En esta charla se hablará acerca de las redes generativas adversarias con las que, entre otros, se pueden generar caras realistas de personas y objetos. Discutiremos cómo funcionan, sus usos y los principales retos que presentan y acabaremos programando una en directo usando Tensorflow 2.0.
+          </p>
           <div style="text-align: center;">
-            <!-- <img src="/assets/img/live/ml-icon.png" class="image" style="width: 30%; margin-top: 0.3em"/> -->
+            <img src="/assets/img/live/neural-ntw.png" class="image" style="width: 30%; margin-top: 2em"/>
           </div>
         </div>
       </div>
-      <div class="panel">
+      <!-- <div class="panel">
         <h1 style="text-transform: uppercase;">Talk 2</h1>
         <div>
           <h3>Speaker: </h3>
           <p style="text-align: justify;">Description</p>
-          <div style="text-align: center;">
+          <div style="text-align: center;"> -->
              <!-- <img src="/assets/img/live/bot.png" class="image" style="width: 30%; margin-top: 1.2em"/> -->
-          </div>
+          <!-- </div>
         </div>
       </div>
       <div class="panel">
@@ -39,9 +43,14 @@
         <div>
           <h3>Speaker: </h3>
           <p style="text-align: justify;">Description</p>
-          <div style="text-align: center;">
+          <div style="text-align: center;"> -->
              <!-- <img src="/assets/img/live/go.png" class="image" style="width: 30%; margin-top: 1em"/>  -->
-          </div>
+          <!-- </div>
+        </div>
+      </div> -->
+      <div class="panel">
+        <div>
+          <p style="text-align: center;">Próximamente... anunciaremos más charlas</p>
         </div>
       </div>
       <div class="panel large">
