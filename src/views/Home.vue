@@ -22,14 +22,14 @@
       <div class="panel" style="align-self: flex-start;">
           <h1>Contacto</h1>
           <div class="text-centered">
-            <span><a  target="_blank" href=" https://discordapp.com/invite/z5eqTGD">Server de discord</a></span>
+            <span><a  target="_blank" href=" https://discordapp.com/invite/z5eqTGD">Servidor de discord</a></span>
           </div>
           <div class="text-centered">
             <p class="icon"><i class="fa fa-envelope" aria-hidden="true"></i></p>
             <span><a href="mailto:support@hackersatupc.org" target="_blank">support@hackersatupc.org</a></span>
           </div>
           <div>
-            <h3 class="text-centered margin-bottom">Social media</h3>
+            <h3 class="text-centered margin-bottom">Redes sociales</h3>
             <div class="buttons">
               <a class="fb" target="_blank" href="https://www.facebook.com/hackersupc"><i class="fa fa-facebook-official" aria-hidden="true"></i></a>
               <a class="tw" target="_blank" href="https://twitter.com/hackersupc"><i class="fa fa-twitter" aria-hidden="true"></i></a>
@@ -52,7 +52,7 @@
       </div> -->
 
       <div class="panel large no-margin">
-        <h1>Trailer Hackers@UPC</h1>
+        <h1>Tráiler Hackers@UPC</h1>
         <div class="embed-container">
           <iframe src="https://www.youtube.com/embed/m2NDc1ofYXY" frameborder="0" allowfullscreen></iframe>
         </div>

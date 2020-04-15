@@ -11,16 +11,16 @@
 			[
 				{
 					"id": "0",
-					"title": "Bienvenido/a!!",
+					"title": "¡¡Bienvenido/a!!",
 					"startHour": "12:00",
-					"description": "Bienvenido/a to HackFromHome!! Estamos encantados de tenerte con nosotros!"
+					"description": "Bienvenido/a to HackFromHome ¡Estamos encantados de tenerte con nosotros!"
 				},
 				{
 					"id": "1",
 					"title": "Team Building",
 					"startHour": "12:15",
 					"endHour": "13:00",
-					"description": "Buscas equipo o compañeros de equipo? Unete a nosotros en los canales de team building"
+					"description": "¿Buscas equipo o compañeros de equipo? Únete a nosotros en los canales de team building"
 				},
 				{
 					"id": "2",
@@ -43,7 +43,7 @@
 					"title": "Juguemos al Pinturillo",
 					"startHour": "16:15",
 					"endHour": "16:45",
-					"description": "¿Te vas a convertir en el próximo Picasso? ¡Descubrelo con nosotros! Únete a nosotros en la batalla del pinturillo y pasa un buen tiempo. En caso de que no sepas que es el pinturillo... consiste en adivinar que dibujan tus oponentes antes de que se acabe el tiempo y siendo el más rápido. Solo pruébalo, la diversión está garantizada."
+					"description": "¿Te vas a convertir en el próximo Picasso? ¡Descubrelo con nosotros! Únete a la batalla del pinturillo y pasa un buen rato. En caso de que no sepas que es el pinturillo... consiste en adivinar qué dibujan tus oponentes antes de que se acabe el tiempo siendo el más rápido. Sólo pruébalo, la diversión está garantizada."
 				},
 				{
 					"id": "5",
@@ -58,7 +58,7 @@
 					"title": "Zumba masterclass",
 					"startHour": "18:15",
 					"endHour": "18:45",
-					"description": "¡Levántate del sofá y anímate a bailar! Pásatelo en grande siguiendo coreografías latinas que te llenaran de ritmo para hacer ejercicio y disfrutar en esta cuarentena."
+					"description": "¡Levántate del sofá y anímate a bailar! Pásatelo en grande siguiendo coreografías latinas que te llenarán de ritmo para hacer ejercicio y disfrutar en esta cuarentena."
 				},
 				{
 					"id": "7",
@@ -70,22 +70,22 @@
 				},
 				{
 					"id": "8",
-					"title": "Juguemos al STOP!",
+					"title": "Juguemos al STOP",
 					"startHour": "22:00",
 					"endHour": "22:30",
-					"description": "Pon a prueba tu vocabulario jugando al STOP! Descubre cuantas ciudades que empiezan por la letra A eres capaz de pensar en un tiempo récord. ¿O cuantos frutas que empiezan por la letra K puedes listar? ¡Demuestra tus habilidades ganando a tus oponentes en este divertido juego!"
+					"description": "¡Pon a prueba tu vocabulario jugando al STOP! Descubre cuántas ciudades que empiezan por la letra A eres capaz de pensar en un tiempo récord. ¿O cuántas frutas que empiezan por la letra K puedes listar? ¡Demuestra tus habilidades ganando a tus oponentes en este divertido juego!"
 				},
 				{
 					"id": "9",
 					"title": "Demos",
 					"startHour": "23:00",
-					"description": "Cuelga tu proyecto en devpost y presentalo a la comunidad en el canal de Demo que se abrirá a la hora de las demos"
+					"description": "Cuelga tu proyecto en devpost y preséntalo a la comunidad en el canal de Demo que se abrirá a la hora de las demos"
 				},
 				{
 					"id": "10",
 					"title": "Fin",
 					"startHour": "24:00",
-					"description": "¡Ha sido un placer! Esperamos que hayais pasado un buen rato con nosotros y esperamos veros en futuros eventos."
+					"description": "¡Ha sido un placer! Esperamos que hayáis pasado un buen rato con nosotros y esperamos veros en futuros eventos."
 				}
 			]
 		}
