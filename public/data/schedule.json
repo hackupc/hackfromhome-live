@@ -2,90 +2,91 @@
 	"version": 2,
 	"message": "",
 	"baseTimeOffset":"-120",
-	"countdownStart":"04/04/2020 12:00",
+	"countdownStart":"18/04/2020 12:00",
 	"days":
 	[
 		{
-			"date":"04/04/2020",
+			"date":"18/04/2020",
 			"events":
 			[
 				{
 					"id": "0",
-					"title": "Welcome!!",
+					"title": "¡¡Bienvenido/a!!",
 					"startHour": "12:00",
-					"description": "Welcome to HackFromHome!! We are glad to see you here!"
+					"description": "Bienvenido/a to HackFromHome ¡Estamos encantados de tenerte con nosotros!"
 				},
 				{
 					"id": "1",
 					"title": "Team Building",
 					"startHour": "12:15",
 					"endHour": "13:00",
-					"description": "Looking for a team or new teammates? Join us on the team building channels "
+					"description": "¿Buscas equipo o compañeros de equipo? Únete a nosotros en los canales de team building"
 				},
 				{
 					"id": "2",
 					"emoji": "🔗",
-					"title": "VIM: from zero to hero",
+					"title": "Workshop",
 					"startHour": "13:15",
 					"endHour": "13:45",
-					"description": "Aprender a utilizar VIM, uno de los editores texto por consola más populares. Empezando por saber cómo editar, guardar y salir; hasta... bueno, VIM no tiene límites! Este editor se puede encontrar en cualquier Linux y nunca está de más saber manejarse en él."
+					"description": "Algo descriptiu jeje"
 				},
 				{
 					"id": "3",
 					"emoji": "🔗",
-					"title": "Implement a chatbot with Dialogflow",
+					"title": "Generative Adversarial Neural Networks",
 					"startHour": "15:00",
 					"endHour": "16:00",
-					"description": "Brew introduction to chatbots. Learn how to implement a chatbot with Dialogflow and how integrate it."
+					"description": "En esta charla se hablará acerca de las redes generativas adversarias con las que, entre otros, se pueden generar caras realistas de personas y objetos. Discutiremos cómo funcionan, sus usos y los principales retos que presentan y acabaremos programando una en directo usando Tensorflow 2.0."
 				},
 				{
 					"id": "4",
-					"title": "Let's play Pinturillo",
+					"title": "Juguemos al Pinturillo",
 					"startHour": "16:15",
 					"endHour": "16:45",
-					"description": "Will you become the next Picasso? Discover it with us! Join our pinturillo battle and have a good time. In case you don’t know what it is, Pinturillo mainly consists of guessing what things are drawing your rivals. Just give it a go, fun is guaranteed!"
+					"description": "¿Te vas a convertir en el próximo Picasso? ¡Descubrelo con nosotros! Únete a la batalla del pinturillo y pasa un buen rato. En caso de que no sepas que es el pinturillo... consiste en adivinar qué dibujan tus oponentes antes de que se acabe el tiempo siendo el más rápido. Sólo pruébalo, la diversión está garantizada."
 				},
 				{
 					"id": "5",
 					"emoji": "🔗",
-					"title": "Cómo crear y entrenar una red neuronal con sólo 10 líneas de Python",
+					"title": "Grandes cosas con poco dinero en el cloud",
 					"startHour": "17:00",
 					"endHour": "18:00",
-					"description": "Esta  presentación inicia a los hackers en los conceptos básicos de redes neuronales mediante un caso práctico que con sólo 10 líneas de código Python se crea y entrena una red neuronal que reconoce dígitos escritos a mano. Para ello usaremos la API Keras de TensorFlow, la librería más popular en estos momentos en la comunidad Deep Learning."
+					"description": "Primero te explicamos qué es el cloud (de verdad) y luego vemos cómo usarlo para solucionar problemas reales sin tener que ser millonario: mantener tu blog por medio euro al mes, correr tu experimiento sobre 160 procesadores y medio terabyte de ram por 25 euros o escribir medio millón de registros en una base de datos en un minuto a cambio de cacahuetes. Y con demos ¡que está todo pagado!"
 				},
 				{
 					"id": "6",
+					"emoji": "🔗",
 					"title": "Zumba masterclass",
 					"startHour": "18:15",
 					"endHour": "18:45",
-					"description": "¡Levántate del sofá y anímate a bailar! Pásatelo en grande siguiendo coreografías latinas que te llenaran de ritmo para hacer ejercicio y disfrutar en esta cuarentena."
+					"description": "¡Levántate del sofá y anímate a bailar! Pásatelo en grande siguiendo coreografías latinas que te llenarán de ritmo para hacer ejercicio y disfrutar en esta cuarentena."
 				},
 				{
 					"id": "7",
 					"emoji": "🔗",
-					"title": "Hacking with Go",
+					"title": "Talk 3",
 					"startHour": "19:00",
 					"endHour": "20:00",
-					"description": "I like Go. Let's see if I can make you like it too!"
+					"description": "Algo descriptiu jeje"
 				},
 				{
 					"id": "8",
-					"title": "Let's play STOP!",
+					"title": "Juguemos al STOP",
 					"startHour": "22:00",
 					"endHour": "22:30",
-					"description": "Challenge your vocabulary playing STOP! Discover how many countries that start with the letter A are you able to think in a time record. Or how many fruits that start with the letter K can you list? Show it by winning all your opponents in this fun game!"
+					"description": "¡Pon a prueba tu vocabulario jugando al STOP! Descubre cuántas ciudades que empiezan por la letra A eres capaz de pensar en un tiempo récord. ¿O cuántas frutas que empiezan por la letra K puedes listar? ¡Demuestra tus habilidades ganando a tus oponentes en este divertido juego!"
 				},
 				{
 					"id": "9",
 					"title": "Demos",
 					"startHour": "23:00",
-					"description": "Submit your project on devpost and present to the community in the Demo channel that we will open at the demos time"
+					"description": "Cuelga tu proyecto en devpost y preséntalo a la comunidad en el canal de Demo que se abrirá a la hora de las demos"
 				},
 				{
 					"id": "10",
-					"title": "End",
+					"title": "Fin",
 					"startHour": "24:00",
-					"description": "It was a pleasure! We hope you have had a good time with us and hope to see you in more events."
+					"description": "¡Ha sido un placer! Esperamos que hayáis pasado un buen rato con nosotros y esperamos veros en futuros eventos."
 				}
 			]
 		}

@@ -2,15 +2,15 @@
   <div id="challenges" class="under-header padding-bottom">
     <div class="container">
       <div class="panel no-margin">
-        <h1>Hackers@UPC</h1>
-        <div class="embed-container">
-          <iframe src="https://www.youtube.com/embed/m2NDc1ofYXY" frameborder="0" allowfullscreen></iframe>
-        </div>
-      </div>
-      <div class="panel no-margin">
         <h1>Introduction to GIT</h1>
         <div class="embed-container">
           <iframe src="https://www.youtube.com/embed/tNpZOvCiz9o" frameborder="0" allowfullscreen></iframe>
+        </div>
+      </div>
+      <div class="panel no-margin">
+        <h1>Workshop de Figma</h1>
+        <div class="embed-container">
+          <iframe src="https://www.youtube.com/embed/63nmF17KgpE" frameborder="0" allowfullscreen></iframe>
         </div>
       </div>
       <div class="panel no-margin">
@@ -35,6 +35,30 @@
         <h1>Carrer paths</h1>
         <div class="embed-container">
           <iframe src="https://www.youtube.com/embed/N1-3OEMFSNA" frameborder="0" allowfullscreen></iframe>
+        </div>
+      </div>
+      <div class="panel no-margin">
+        <h1>Workshop VIM</h1>
+        <div class="embed-container">
+          <iframe src="https://www.youtube.com/embed/V2lrcubwLnY" frameborder="0" allowfullscreen></iframe>
+        </div>
+      </div>
+      <div class="panel no-margin">
+        <h1>Chatbot with DialogFlow</h1>
+        <div class="embed-container">
+          <iframe src="https://www.youtube.com/embed/ItFxuHQNLT8" frameborder="0" allowfullscreen></iframe>
+        </div>
+      </div>
+      <div class="panel no-margin">
+        <h1>Machine Learning</h1>
+        <div class="embed-container">
+          <iframe src="https://www.youtube.com/embed/fybjOXq7Dvo" frameborder="0" allowfullscreen></iframe>
+        </div>
+      </div>
+      <div class="panel no-margin">
+        <h1>GO</h1>
+        <div class="embed-container">
+          <iframe src="https://www.youtube.com/embed/mNkqU2X5SIk" frameborder="0" allowfullscreen></iframe>
         </div>
       </div>
     </div>

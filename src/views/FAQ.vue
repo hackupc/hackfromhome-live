@@ -2,76 +2,70 @@
   <div id="faq" class="under-header padding-bottom">
     <div class="container">
       <div class="panel large">
-        <h1>What is HackFromHome?</h1>
+        <h1>¿QUÉ ES HACKFROMHOME?</h1>
         <div>
-          <p>Due to the COVID-19, most of us are confined at home wondering how to spend time at home, while trying to not lose the fight against boredom. For this reason, Hackers@UPC has raised an awesome initiative: an online hackathon! This way, hackathon lovers can spend their time at home doing what they love the most.</p>
+          <p>A causa del COVID-19, muchos de nosotros estamos confinados en casa pensando cómo pasar el tiempo, intentando no perder la batalla contra el aburrimiento. Por este motivo, Hackers@UPC ha creado una iniciativa genial: ¡una hackathon online! De esta manera, los amantes de las hackathons pueden pasar el tiempo haciendo lo que más les gusta.</p>
         </div>
       </div>
       <div class="panel">
-        <h1>Who can participate?</h1>
+        <h1>¿QUIÉN PUEDE PARTICIPAR?</h1>
+        <div>
+          <p>Si te gustan las hackathons y quieres pasar un día genial, este evento es para ti. ¡No necesitas ser un estudiante o tener conocimientos previos! ¡Os animamos a crear grandes proyectos! Ya sea relacionado con el COVID-19 o no... la imaginación es tu límite.</p>
+        </div>
+      </div>
+      <div class="panel">
+        <h1>¿DÓNDE PARTICIPAR?</h1>
+        <div>
+          <p>Puedes trabajar donde te sientas más cómodo... Tu habitación, la cocina, el sofá, el baño... Pero por favor, ¡QUÉDATE EN CASA! Podrás estar en contacto con el resto de la comunidad a través de Discord.</p>
+        </div>
+      </div>
+      <div class="panel">
+        <h1>No estoy en discord, ¿cómo entro?</h1>
         <div>
           <p>
-            If you love hackathons and want to spend an awesome day, this is for you. No need to be a student or have previous knowledge! We encourage you to make great projects! Either related to COVID-19 or not... your imagination is your limit.
+            Puedes enviarnos un correo electrónico a <a href="mailto:support@hackersatupc.org" target="_blank">support@hackersatupc.org</a> o unirte a través del siguiente <a href="#" target="_blank"> link</a>.
           </p>
         </div>
       </div>
       <div class="panel">
-        <h1>Where to participate?</h1>
+        <h1>¿Puedo participar individualmente o necesito un equipo?</h1>
         <div>
           <p>
-            You can develop where you feel more comfortable... Your bedroom, the kitchen, the sofa, the bathroom... But please STAY AT HOME! We will soon update you with how to connect with the rest of the community!
+            Puedes desarrollar tu proyecto en solitario, con tus amigos o con alguien que hayas conocido en el Team Building.
           </p>
         </div>
       </div>
       <div class="panel">
-        <h1>I'm not in Discord, how do I get in?</h1>
+        <h1>No tengo equipo, ¿Qué tengo que hacer?</h1>
         <div>
           <p>
-            Mail us to <a href="mailto:support@hackersatupc.org" target="_blank">support@hackersatupc.org</a> or join the discord server following <a href="https://discord.gg/AVQHN9p" target="_blank">this link</a>!
+            Puedes encontrar un equipo en la actividad de team building que empieza a las 12:15 (GMT+2) ¡estate atento! Encontrarás más información sobre la actividad en la sección de <a href="/activities">Información de las actividades</a>
           </p>
         </div>
       </div>
       <div class="panel">
-        <h1>Can I code individually or I have to be in a team?</h1>
+        <h1>¿Cual es el tamaño máximo de los equipos?</h1>
+        <div>
+          <p>No hay tamaño máximo para un equipo, pero nuestra recomendación es que sea de 4 a 6 como máximo. De esta manera tendréis menos dependencia entre vosotros y podréis trabajar mejor. También recomendamos que el equipo sea multidisciplinario.</p>
+        </div>
+      </div>
+      <div class="panel">
+        <h1>¿El proyecto se ha de desarollar en la hackathon desde 0?</h1>
+        <div>
+          <p>¡No! Puedes continuar con un proyecto que hayas empezado en otra ocasión, lo más importante es que en esta hackathon que aprendáis y paséis un buen rato con nosotros.</p>
+        </div>
+      </div>
+      <div class="panel">
+        <h1>¿Cuál será el idioma de la hackathon?</h1>
+        <div>
+          <p> Castellano, durante las pasadas ediciones hemos visto que nuestros participantes forman parte de países de habla hispana, y es por eso que la hackathon será en castellano. </p>
+        </div>
+      </div>
+      <div class="panel">
+        <h1>¿Habrá algún premio?</h1>
         <div>
           <p>
-            You can develop your project alone, with your friend or with someone you meet in on the team building!!
-          </p>
-        </div>
-      </div>
-      <div class="panel">
-        <h1>I have no team, what I have to do?</h1>
-        <div>
-          <p>
-            You can find a team in our Team Building activity that will starts at 12:15 (GMT+2) stay tunned! You will find all the information about the activity in the ACTIVITIES INFORMATION tab.
-          </p>
-        </div>
-      </div>
-      <div class="panel">
-        <h1>What are the maximum size of the teams?</h1>
-        <div>
-          <p>There is no maximum size for a team but our recomendation is to be 4 to 6 maximum in a team so you have less dependencies and you can work better. Also we recomend you to be a multidisciplinary team or experience with new technologies</p>
-        </div>
-      </div>
-      <div class="panel">
-        <h1>The project has to be fully developed during the project?</h1>
-        <div>
-          <p>No! You can continue a project you start in an other ocasion! The most important think in this hackathon is learn and have a good time with us!</p>
-        </div>
-      </div>
-      <div class="panel">
-        <h1>Which will be the language of the Hackathon?</h1>
-        <div>
-          <p>
-            English and Spanish, we are having participants from all over the world so we will be doing the activities in English or Spanish depending on the participants. Three of the four main talks in this round will be presented in Spanish.
-          </p>
-        </div>
-      </div>
-      <div class="panel">
-        <h1>Is there any prize?</h1>
-        <div>
-          <p>
-            Nope! In this hackathon there are no winners we want you to learn, develop, have fun and be distracted! There is no competition, we want to create community.
+            ¡Nope! En esta hackathon no hay ganadores, nuestra intención es que aprendáis, desarolléis, paséis un buen rato y os distraigáis. No hay competición, queremos crear comunidad.
           </p>
         </div>
       </div>

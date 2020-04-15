@@ -20,10 +20,10 @@ export default {
     return {
       askedSubscribeAll: false,
       prompt: {
-        title: 'Notifications for upcoming events',
-        message: '<p>Do you want to subscribe to all the events? </p>'
-        + '<p>You will receive a notification 2 minutes before something happens. </p>'
-        + '<p><b>We won\'t spam you:</b> You can always choose to subscribe or unsubscribe by clicking individually on an event.</p>',
+        title: 'Notificaciones de las actividades',
+        message: '<p>¿Quieres estar atento a todas las actividades? </p>'
+        + '<p>Recibirás una notificación 2 minutes antes de que cualquier actividad. </p>'
+        + '<p><b>No te haremos spam:</b> Siempre puedes cancelar las alertas, o activarlas, clicando a un evento en concreto.</p>',
       },
     };
   },
