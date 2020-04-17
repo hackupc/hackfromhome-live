@@ -25,10 +25,10 @@
 				{
 					"id": "2",
 					"emoji": "🔗",
-					"title": "Workshop",
-					"startHour": "13:15",
-					"endHour": "13:45",
-					"description": "Algo descriptiu jeje"
+					"title": "¡Surfeando la extracción de datos con scraping!",
+					"startHour": "13:00",
+					"endHour": "14:00",
+					"description": "Si alguna vez has copiado y pegado información de un sitio web, has realizado la misma función que cualquier scraper web, solo que en una escala microscópica y manual. El scraping web, también conocido como extracción de datos web, es el proceso de recuperar o 'raspar' datos de un sitio web. A diferencia del proceso mundano e inescalable de extracción manual de datos, el scraping utiliza la automatización inteligente para recuperar cientos, millones o incluso miles de millones de puntos de datos de la frontera aparentemente interminable de Internet. ¡En esta charla se mostrarán algunas técnicas básicas y avanzadas de scraping!"
 				},
 				{
 					"id": "3",
@@ -36,7 +36,7 @@
 					"title": "Generative Adversarial Neural Networks",
 					"startHour": "15:00",
 					"endHour": "16:00",
-					"description": "En esta charla se hablará acerca de las redes generativas adversarias con las que, entre otros, se pueden generar caras realistas de personas y objetos. Discutiremos cómo funcionan, sus usos y los principales retos que presentan y acabaremos programando una en directo usando Tensorflow 2.0."
+					"description": "En esta charla se hablará acerca de las redes generativas adversarias con las que, entre otros, se pueden generar imágenes realistas de personas u objetos. Discutiremos cómo funcionan, sus usos y los principales retos que presentan y acabaremos programando una en directo usando Tensorflow 2.0."
 				},
 				{
 					"id": "4",
@@ -64,10 +64,10 @@
 				{
 					"id": "7",
 					"emoji": "🔗",
-					"title": "Talk 3",
+					"title": "¿Deno, el sucesor de Node?",
 					"startHour": "19:00",
 					"endHour": "20:00",
-					"description": "Algo descriptiu jeje"
+					"description": "En esta charla vamos a descubrir qué es Deno, porqué se está creando una alternativa a NodeJS y qué elementos se pretenden mejorar. Además, ¡realizaremos un ejemplo práctico para crear un servidor HTTP utilizándolo!"
 				},
 				{
 					"id": "8",

@@ -2,19 +2,19 @@
   <div id="faq" class="under-header padding-bottom">
     <div class="container">
       <div class="panel large">
-        <h1>¿QUÉ ES HACKFROMHOME?</h1>
+        <h1>¿Qué es HackFromHome?</h1>
         <div>
           <p>A causa del COVID-19, muchos de nosotros estamos confinados en casa pensando cómo pasar el tiempo, intentando no perder la batalla contra el aburrimiento. Por este motivo, Hackers@UPC ha creado una iniciativa genial: ¡una hackathon online! De esta manera, los amantes de las hackathons pueden pasar el tiempo haciendo lo que más les gusta.</p>
         </div>
       </div>
       <div class="panel">
-        <h1>¿QUIÉN PUEDE PARTICIPAR?</h1>
+        <h1>¿Quién puede participar?</h1>
         <div>
           <p>Si te gustan las hackathons y quieres pasar un día genial, este evento es para ti. ¡No necesitas ser un estudiante o tener conocimientos previos! ¡Os animamos a crear grandes proyectos! Ya sea relacionado con el COVID-19 o no... la imaginación es tu límite.</p>
         </div>
       </div>
       <div class="panel">
-        <h1>¿DÓNDE PARTICIPAR?</h1>
+        <h1>¿Dónde participar?</h1>
         <div>
           <p>Puedes trabajar donde te sientas más cómodo... Tu habitación, la cocina, el sofá, el baño... Pero por favor, ¡QUÉDATE EN CASA! Podrás estar en contacto con el resto de la comunidad a través de Discord.</p>
         </div>

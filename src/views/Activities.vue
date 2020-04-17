@@ -21,36 +21,31 @@
         <div>
           <h3>Speaker: Adrià Cabeza</h3>
           <p style="text-align: justify;">
-            En esta charla se hablará acerca de las redes generativas adversarias con las que, entre otros, se pueden generar caras realistas de personas y objetos. Discutiremos cómo funcionan, sus usos y los principales retos que presentan y acabaremos programando una en directo usando Tensorflow 2.0.
+            En esta charla se hablará acerca de las redes generativas adversarias con las que, entre otros, se pueden generar imágenes realistas de personas u objetos. Discutiremos cómo funcionan, sus usos y los principales retos que presentan y acabaremos programando una en directo usando Tensorflow 2.0.
           </p>
           <div style="text-align: center;">
             <img src="/assets/img/live/neural-ntw.png" class="image" style="width: 30%; margin-top: 2em"/>
           </div>
         </div>
       </div>
-      <!-- <div class="panel">
-        <h1 style="text-transform: uppercase;">Talk 2</h1>
+      <div class="panel">
+        <h1 style="text-transform: uppercase;">¿Deno, el sucesor de Node?</h1>
         <div>
           <h3>Speaker: </h3>
-          <p style="text-align: justify;">Description</p>
-          <div style="text-align: center;"> -->
-             <!-- <img src="/assets/img/live/bot.png" class="image" style="width: 30%; margin-top: 1.2em"/> -->
-          <!-- </div>
+          <p style="text-align: justify;">En esta charla vamos a descubrir qué es Deno, porqué se está creando una alternativa a NodeJS y qué elementos se pretenden mejorar. Además, ¡realizaremos un ejemplo práctico para crear un servidor HTTP utilizándolo!</p>
+          <div style="text-align: center;">
+             <img src="/assets/img/live/deno.png" class="image" style="width: 50%; margin-top: 1.4em"/>
+          </div>
         </div>
       </div>
       <div class="panel">
-        <h1 style="text-transform: uppercase;">Talk 3</h1>
+        <h1 style="text-transform: uppercase;">¡Surfeando la extracción de datos con scraping!</h1>
         <div>
-          <h3>Speaker: </h3>
-          <p style="text-align: justify;">Description</p>
-          <div style="text-align: center;"> -->
-             <!-- <img src="/assets/img/live/go.png" class="image" style="width: 30%; margin-top: 1em"/>  -->
-          <!-- </div>
-        </div>
-      </div> -->
-      <div class="panel">
-        <div>
-          <p style="text-align: center;">Próximamente... anunciaremos más charlas</p>
+          <h3>Speaker: Joaquim de la Cruz</h3>
+          <p style="text-align: justify;">Si alguna vez has copiado y pegado información de un sitio web, has realizado la misma función que cualquier scraper web, solo que en una escala microscópica y manual. El scraping web, también conocido como extracción de datos web, es el proceso de recuperar o "raspar" datos de un sitio web. A diferencia del proceso mundano e inescalable de extracción manual de datos, el scraping utiliza la automatización inteligente para recuperar cientos, millones o incluso miles de millones de puntos de datos de la frontera aparentemente interminable de Internet. ¡En esta charla se mostrarán algunas técnicas básicas y avanzadas de scraping!</p>
+          <div style="text-align: center;">
+             <img src="/assets/img/live/scraping.png" class="image" style="width: 25%; margin-top: 1em"/>
+          </div>
         </div>
       </div>
       <div class="panel large">
